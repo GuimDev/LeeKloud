@@ -1,7 +1,7 @@
 LeeKloud 2.0.0-alpha
 ========
 
-# LeeKloud v2 n'est pas encore en release (LTS), est bientôt dans quelques jours
+# LeeKloud v2 n'est pas encore en release (LTS)
 
 Une application en ligne de commande (via node) pour synchroniser vos IA se situant sur votre ordinateur vers le site leekwars.com
 
